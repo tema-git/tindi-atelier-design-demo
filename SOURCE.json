@@ -1,0 +1,43 @@
+{
+  "spreadsheet_row": 335,
+  "company": "Т`Инди",
+  "brand_display": "Т`Инди",
+  "brand_caption": "Дом быта · Нарвская, 1а к3",
+  "address": "Нарвская улица, 1а к3",
+  "city": "Москва",
+  "phone": "+79680411444",
+  "email": null,
+  "email_evidence": "Подтверждённая публичная почта в проверенных контактах не найдена. Адрес не предполагается.",
+  "telegram": [
+    "https://t.me/+79680411444"
+  ],
+  "telegramurls": [
+    "https://t.me/+79680411444"
+  ],
+  "source_urls": [
+    "https://urbanplaces.su/ru_moskva/moskva/card-70000001076248909-t-indi",
+    "https://2gis.ru/moscow/firm/70000001076248909"
+  ],
+  "current_site": "http://individualservice.c0de4seek.ru/",
+  "verified_on": "2026-11-03",
+  "notes": [
+    "На текущей карточке 2GIS опубликован свой сайт. Пользователь всё равно поручил сделать копию для всех оставшихся. Не писать, что сайта у компании нет.",
+    "Номер +79680411444 помечен «ателье», +79060120557 — «ремонт техники». Для предложения сайта ателье выбрать Telegram первого номера.",
+    "Ссылка сайта обнаружена в 2GIS; web-инструмент не смог открыть домен, доступность сайта не утверждается."
+  ],
+  "phone_evidence": "Полный номер совпал в объекте contacts основной карточки 2GIS; рекламные и похожие организации в данные не включены.",
+  "rejected_contacts": {
+    "telegram": "https://t.me/+79060120557",
+    "reason": "В 2GIS номер помечен ремонт техники; для предложения об ателье используем другой опубликованный номер той же компании."
+  },
+  "phone_display": "+7 968 041-14-44",
+  "contacted": false,
+  "repository": "tindi-atelier-design-demo",
+  "local_path": "/Users/artyombabayan/Downloads/victory/demos/tindi-atelier-design-demo",
+  "public_url": "https://tema-git.github.io/tindi-atelier-design-demo/",
+  "template": "lepata-atelier-design-demo",
+  "template_commit": "120ee7b5860450296011f1886aa4121c661d2f9e",
+  "prepared_on": "2026-11-03",
+  "demo_only": true,
+  "data_submission": false
+}
